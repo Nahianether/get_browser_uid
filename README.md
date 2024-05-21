@@ -1,4 +1,4 @@
-# get_browser_uid
+# Get Browser Uid
 
 A new Flutter project.
 
